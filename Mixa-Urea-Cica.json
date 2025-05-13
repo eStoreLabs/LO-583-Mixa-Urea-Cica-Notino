@@ -1,0 +1,300 @@
+{
+  "keys": [
+    "mixa/urea-cica-repair-regenerujacy-krem-do-ciala-do-bardzo-suchej-skory/"
+  ],
+
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Mixa Urea Cica",
+  "rpc": "MXX02266",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Mixa Urea Cica",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "element": "img",
+                "alt": "Mixa Urea Cica",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV.jpg",
+                "element": "img",
+                "alt": "Mixa Urea Cica",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02-mobile.jpg",
+                "element": "img",
+                "alt": "Skuteczność",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "element": "img",
+                "alt": "Skuteczność",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03-mobile.jpg",
+                "element": "img",
+                "alt": "Konsumenci potwierdzają",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "element": "img",
+                "alt": "Konsumenci potwierdzają",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "SKŁADNIKI AKTYWNE<br><span style=\"\"font-weight: normal;\">dla regeneracji suchej i szorstkiej skóry</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "40px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><b>KOJĄCY NIACYNAMID</b><ul><li>Rozświetla i wyrównuje koloryt skóry</li><li>Nawilża skórę</li><li>Działa antybakteryjnie, przeciwzapalnie i antyoksydacyjnie</li></ul></p><br><br><p><b>REGENERUJĄCY MOCZNIK</b><ul><li>Zmiękcza i nawilża skórę</li><li>Regeneruje skórę</li><li>Wzmacnia barierę ochronną skóry</li></ul></p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "element": "img",
+                "alt": "KOJĄCY NIACYNAMID",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "ZBUDUJ SWOJĄ RUTYNĘ <br>PIELĘGNACYJNĄ",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><b>MULTIFUNKCYJNY KREM</b><br><u>Przeznaczenie:</u> Twarz, ciało, dłonie<br><u>Składniki:</u> 10% [Mocznik + Niacynamid]<br><u>Formuła:</u> Krem<br><u>Dla kogo?:</u> Dorośli</p><p><b>BALSAM DO CIAŁA</b><br><u>Przeznaczenie:</u> Ciało<br><u>Składniki:</u> 5% [Mocznik + Pantenol]<br><u>Formuła:</u> Balsam<br><u>Dla kogo?:</u> Dorośli</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-05.jpg",
+                "element": "img",
+                "alt": "MULTIFUNKCYJNY KREM",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
