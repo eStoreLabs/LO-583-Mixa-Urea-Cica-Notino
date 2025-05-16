@@ -153,12 +153,12 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "SKŁADNIKI AKTYWNE<br><span style=\"\"font-weight: normal;\">dla regeneracji suchej i szorstkiej skóry</span>",
+                "value": "SKŁADNIKI AKTYWNE<span style=\"display:block;font-weight: normal;font-size:20px\">dla regeneracji suchej i szorstkiej skóry</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
-                  "fontWeight": "normal",
+                  "fontSize": "30px",
+                  "fontWeight": "bold",
                   "textTransform": "normal",
                   "color": "#000",
                   "marginTop": "20px",
@@ -205,7 +205,7 @@
               },
               {
                 "name": "content",
-                "value": "<p><b>KOJĄCY NIACYNAMID</b><ul><li>Rozświetla i wyrównuje koloryt skóry</li><li>Nawilża skórę</li><li>Działa antybakteryjnie, przeciwzapalnie i antyoksydacyjnie</li></ul></p><br><br><p><b>REGENERUJĄCY MOCZNIK</b><ul><li>Zmiękcza i nawilża skórę</li><li>Regeneruje skórę</li><li>Wzmacnia barierę ochronną skóry</li></ul></p>",
+                "value": "<p><b style=\"font-size:20px;\">KOJĄCY NIACYNAMID</b><ul><li>Rozświetla i wyrównuje koloryt skóry</li><li>Nawilża skórę</li><li>Działa antybakteryjnie, przeciwzapalnie i antyoksydacyjnie</li></ul></p><br><br><p><b style=\"font-size:20px;\">REGENERUJĄCY MOCZNIK</b><ul><li>Zmiękcza i nawilża skórę</li><li>Regeneruje skórę</li><li>Wzmacnia barierę ochronną skóry</li></ul></p>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -247,7 +247,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -256,12 +256,13 @@
                   "padding": "0 16px",
                   "lineHeight": "1",
                   "marginTop": "30px",
+                  "marginBottom": "40px",
                   "maxWidth": "100%"
                 }
               },
               {
                 "name": "content",
-                "value": "<p><b>MULTIFUNKCYJNY KREM</b><br><u>Przeznaczenie:</u> Twarz, ciało, dłonie<br><u>Składniki:</u> 10% [Mocznik + Niacynamid]<br><u>Formuła:</u> Krem<br><u>Dla kogo?:</u> Dorośli</p><p><b>BALSAM DO CIAŁA</b><br><u>Przeznaczenie:</u> Ciało<br><u>Składniki:</u> 5% [Mocznik + Pantenol]<br><u>Formuła:</u> Balsam<br><u>Dla kogo?:</u> Dorośli</p>",
+                "value": "<p><b style=\"font-size: 20px;\">MULTIFUNKCYJNY KREM</b><br><u>Przeznaczenie:</u> Twarz, ciało, dłonie<br><u>Składniki:</u> 10% [Mocznik + Niacynamid]<br><u>Formuła:</u> Krem<br><u>Dla kogo?:</u> Dorośli</p><p><b style=\"font-size: 20px;\">BALSAM DO CIAŁA</b><br><u>Przeznaczenie:</u> Ciało<br><u>Składniki:</u> 5% [Mocznik + Pantenol]<br><u>Formuła:</u> Balsam<br><u>Dla kogo?:</u> Dorośli</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -286,6 +287,207 @@
               "marginTop": "30px",
               "marginBottom": "16px"
             },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Wybierz idealny produkt dla swojej wrażliwej skóry ",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "40px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Ceramide Protect",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Dla skóry bardzo suchej",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD-05-6.jpg",
+                "element": "img",
+                "alt": "Ceramide Protect",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Panthenol Comfort",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "Dla skóry atopowej",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD-06-B.jpg",
+                "element": "img",
+                "alt": "Dla skóry atopowej",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Urea Cica Repair+",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "Dla skóry suchej i szorstkiej",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD-06-C.jpg",
+                "element": "img",
+                "alt": "Dla skóry suchej i szorstkiej",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Krok 4 - Na dzień: <br>Serum<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "MOD-05-D.jpg",
+                "element": "img",
+                "alt": "Krok 4",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "*Test konsumencki, 55 osób",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "13px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "40px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
             "breakpoints": {
               "xs": true,
               "sm": true,
