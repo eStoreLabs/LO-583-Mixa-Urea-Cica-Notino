@@ -423,7 +423,7 @@
               },
               {
                 "name": "columnFourTitle",
-                "value": "Krok 4 - Na dzień: <br>Serum<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
+                "value": "Krok 4 - Na dzień: <br>Serum<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
